@@ -1,0 +1,169 @@
+@media screen and (max-width: 1300px) {
+  /* Coloured banner */
+  nav {
+    display: block;
+    width: 80%;
+    padding: 1.6rem 0 0 0rem;
+    background: #fbfbf9;
+    color: rgb(35, 35, 35);
+    height: 20rem;
+    text-align: center;
+  }
+
+  /* Coloured banner */
+
+  #ben-kawam-home a {
+    color: #847e69;
+    display: inline-block;
+    font-size: 7.2rem;
+    transform: translateY(0%);
+    font-family: "Source Sans Pro Light";
+    font-weight: lighter;
+  }
+
+  nav ul {
+    clear: left;
+    list-style: none;
+    margin: 2rem 0 0 0;
+    padding: 0;
+    position: relative;
+    right: 50%;
+    text-align: center;
+  }
+
+  nav li {
+    display: block;
+    float: left;
+    list-style: none;
+    position: relative;
+    left: 45%;
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    height: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 14rem;
+    flex-flow: inherit;
+  }
+
+  .single-img {
+    margin: 0rem 0rem 0rem 0rem;
+  }
+
+  nav li a {
+    font-size: 3.4rem;
+  }
+
+  .container {
+    margin-top: 6rem;
+    margin-bottom: 10rem;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .text-below-images {
+    margin-bottom: 2rem;
+  }
+
+  #text-illustration {
+    text-align: left;
+  }
+
+  #line {
+    display: none;
+  }
+
+  footer {
+    clear: both;
+    bottom: 0px;
+    margin-left: 10%;
+    padding-bottom: 1%;
+    position: fixed;
+    width: 100%;
+    background-color: #ffffff;
+  }
+
+  /* ABOUT */
+
+  /* Coloured banner */
+  .ben-kawam-banner a {
+    text-align: center;
+    padding: 0rem 0 0rem 0rem;
+    font-size: 7.2rem;
+    color: #000000;
+    transform: translateY(0%);
+    font-family: "Source Sans Pro Light";
+    font-weight: lighter;
+  }
+
+  .main-about {
+    margin: 55rem 10% 0 10%;
+  }
+
+  #rounded-ben {
+    width: 415px;
+    position: absolute;
+    left: 50%;
+    top: 47%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* RESEARCH */
+
+  .research {
+    width: 80%;
+    margin: auto;
+    margin-top: 10rem;
+  }
+
+  #research-baboon-img {
+    background-image: url("img/research_images-baboons");
+  }
+
+  .research-img-large {
+    display: none;
+  }
+
+  .research-img-small {
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 5rem;
+  }
+
+  /* RESEARCH */
+
+  .container-ill {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 14rem;
+  }
+
+  .hr-illustrations {
+    display: inline-block;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 0;
+    height: 0.3rem;
+    background-color: #dcd6ce;
+    transform: translateX(0%);
+    transform: translateY(-3rem);
+  }
+
+  .text-under-illustrations {
+    text-align: center;
+    transform: translateY(-3rem);
+    margin-bottom: 4rem;
+  }
+}
