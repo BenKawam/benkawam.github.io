@@ -15,7 +15,7 @@
   #ben-kawam-home a {
     color: #847e69;
     display: inline-block;
-    font-size: 7.2rem;
+    font-size: 6rem;
     transform: translateY(0%);
     font-family: "Source Sans Pro Light";
     font-weight: lighter;
@@ -57,7 +57,7 @@
   }
 
   nav li a {
-    font-size: 3.4rem;
+    font-size: 2.5rem;
   }
 
   .container {
@@ -95,7 +95,7 @@
   .ben-kawam-banner a {
     text-align: center;
     padding: 0rem 0 0rem 0rem;
-    font-size: 7.2rem;
+    font-size: 6rem;
     color: #000000;
     transform: translateY(0%);
     font-family: "Source Sans Pro Light";
@@ -103,14 +103,14 @@
   }
 
   .main-about {
-    margin: 55rem 10% 0 10%;
+    margin: 50rem 10% 0 10%;
   }
 
   #rounded-ben {
     width: 415px;
     position: absolute;
     left: 50%;
-    top: 47%;
+    top: 60%;
     transform: translate(-50%, -50%);
   }
 

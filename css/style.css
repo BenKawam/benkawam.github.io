@@ -43,16 +43,15 @@ nav {
   padding: 1.6rem 0 0 0rem;
   background: #fbfbf9;
   color: rgb(35, 35, 35);
-  height: 16.5rem;
+  height: 14rem;
 }
 
 #ben-kawam-home a {
   color: #847e69;
   display: inline-block;
-  font-size: 7.2rem;
+  font-size: 6rem;
   transform: translateY(50%);
   font-family: "Source Sans Pro Light";
-  font-weight: lighter;
 }
 
 nav ul {
@@ -66,7 +65,7 @@ nav li {
 }
 
 nav a {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
 }
 
 .tab-target {
@@ -104,7 +103,7 @@ nav a {
 
 .text-below-images {
   display: block;
-  font-size: 3rem;
+  font-size: 2.5rem;
   box-sizing: border-box;
   margin-top: 0.5rem;
   width: 100%;
@@ -134,7 +133,7 @@ footer {
 
 .ben-kawam-banner a {
   display: inline-block;
-  font-size: 7.2rem;
+  font-size: 6rem;
   transform: translateY(50%);
   font-family: "Source Sans Pro Light";
   font-weight: lighter;
@@ -142,7 +141,7 @@ footer {
 
 .ben-kawam-tabs a {
   display: inline-block;
-  font-size: 7.2rem;
+  font-size: 6rem;
   transform: translateY(50%);
   font-family: "Source Sans Pro Light";
   font-weight: lighter;
@@ -151,11 +150,11 @@ footer {
 .main-about {
   float: left;
   margin: -15% 45% 0 17.5%;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 .main-about i {
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 .short-cv {
@@ -163,27 +162,27 @@ footer {
 }
 
 .short-cv li {
-  padding: 0;
   list-style: none;
-  margin-top: 1.5rem;
-  font-size: 2.5rem;
+  font-size: 2rem;
+  margin-bottom: 2rem;
 }
 
 .title-cv {
   font-family: "Source Sans Pro Semibold";
-  font-size: 3rem;
-  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .short-cv ul {
   padding: 0;
   margin-bottom: 4rem;
+  margin-top: 2rem;
 }
 
 .dates-cv {
   display: inline-block;
   font-family: "Source Sans Pro Semibold";
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #6f2741;
 }
 
@@ -202,7 +201,7 @@ footer {
   margin-bottom: 4rem;
   font-family: "Adobe Garamond Pro";
   color: #847e69;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 #rounded-ben {
@@ -222,7 +221,7 @@ footer {
 /* Titles (red) */
 .research h2 {
   margin-top: 3rem;
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   font-weight: normal;
   color: #6f2741;
 }
@@ -232,26 +231,26 @@ footer {
   margin-bottom: 2rem;
   font-weight: normal;
   font-style: italic;
-  font-size: 4rem;
+  font-size: 3rem;
   color: #555345;
 }
 
 /* Publications (text) */
 .research p a {
   margin-bottom: 3rem;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 /* "Ben Kawam" in publication list (bold) */
 .publications-name {
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 /* "journal names" in publication list (bold) */
 .publications-journal {
   font-style: italic;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 /* Lines between titles */
@@ -267,7 +266,7 @@ footer {
 /* Projects (text) */
 .research p {
   margin-bottom: 3rem;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 /* Double images - not displayed now */
@@ -331,7 +330,7 @@ footer {
   font-family: "Source Sans Pro Semibold";
   margin: 10% 10%;
   color: #7d6b4f;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 .text-PDF-illustrations {
@@ -339,5 +338,5 @@ footer {
   font-family: "Source Sans Pro Semibold";
   margin: 10% 10%;
   color: #4c0f35;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
