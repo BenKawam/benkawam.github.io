@@ -1,7 +1,3 @@
-/* By setting the font size as 62.5, then 
-1 rem will be 10 pixels, 2 rem 20 pixels and so on.
-Also we won't need media queries for screen size */
-
 @font-face {
   font-family: "Adobe Garamond Pro";
   src: url("../fonts/AGaramondPro-Bold.eot");
@@ -102,6 +98,8 @@ nav {
   font-size: 6rem;
   transform: translateY(50%);
   font-family: "Source Sans Pro Light", sans-serif;
+  font-weight: lighter;
+  font-style: normal;
 }
 
 nav ul {
@@ -186,6 +184,8 @@ footer {
   font-size: 6rem;
   transform: translateY(50%);
   font-family: "Source Sans Pro Light", sans-serif;
+  font-weight: lighter;
+  font-style: normal;
 }
 
 .main-about {
@@ -210,6 +210,8 @@ footer {
 
 .title-cv {
   font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-style: normal;
   font-weight: Bold;
   font-size: 2rem;
   margin-bottom: 0.5rem;
@@ -224,6 +226,8 @@ footer {
 .dates-cv {
   display: inline-block;
   font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-style: normal;
   font-weight: Bold;
   font-size: 2rem;
   color: #6f2741;
@@ -373,6 +377,8 @@ footer {
 .text-PNG-illustrations {
   display: inline-block;
   font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-style: normal;
   font-weight: Bold;
   margin: 10% 10%;
   color: #7d6b4f;
@@ -382,6 +388,8 @@ footer {
 .text-PDF-illustrations {
   display: inline-block;
   font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-style: normal;
   font-weight: Bold;
   margin: 10% 10%;
   color: #4c0f35;
