@@ -93,7 +93,6 @@
     color: #000000;
     transform: translateY(0%);
     font-family: "Source Sans Pro Light";
-    font-weight: lighter;
   }
 
   #rounded-ben {
@@ -133,6 +132,11 @@
 
   /* RESEARCH */
 
+  .illustrations-tot {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+  }
+
   .container-ill {
     display: flex;
     flex-wrap: wrap;
@@ -141,7 +145,6 @@
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
-    margin-top: 14rem;
   }
 
   .hr-illustrations {
@@ -160,5 +163,11 @@
     text-align: center;
     transform: translateY(-3rem);
     margin-bottom: 4rem;
+  }
+
+  a:hover {
+    color: #958f77;
+    opacity: 0.9;
+    transition: 0.1s;
   }
 }
