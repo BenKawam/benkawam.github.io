@@ -91,6 +91,7 @@ Also we won't need media queries for screen size */
   text-decoration: none;
   color: black;
   font-family: "Adobe Garamond Pro";
+  font-weight: normal;
 }
 
 html {
