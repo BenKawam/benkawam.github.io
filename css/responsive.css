@@ -2,7 +2,7 @@
   /* Coloured banner */
   nav {
     display: block;
-    width: 85%;
+    width: 90%;
     padding: 1.6rem 0 0 0rem;
     background: #fbfbf9;
     color: rgb(35, 35, 35);
@@ -28,15 +28,15 @@
 
   /* Banner li */
   nav li {
-    margin: 0rem 0rem 0rem 1.5rem;
+    margin: 0rem 1rem 0rem 1rem;
     list-style: none;
     position: relative;
-    left: 45%;
+    left: 50%;
   }
 
   /* Banner li anchors */
   nav li a {
-    font-size: 2.2rem;
+    font-size: 2.3rem;
   }
 
   /* Conianer images and text */
