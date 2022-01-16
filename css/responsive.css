@@ -2,7 +2,7 @@
   /* Coloured banner */
   nav {
     display: block;
-    width: 90%;
+    width: 85%;
     padding: 1.6rem 0 0 0rem;
     background: #fbfbf9;
     color: rgb(35, 35, 35);
@@ -42,10 +42,10 @@
 
   /* Conianer images and text */
   .container {
-    width: 90%;
+    width: 85%;
     height: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
     margin-top: 5rem;
     margin-bottom: 10rem;
     flex-direction: column;
@@ -71,7 +71,7 @@
   footer {
     clear: both;
     bottom: 0px;
-    margin-left: 5%;
+    margin-left: 7.5%;
     padding-bottom: 1%;
     position: fixed;
     width: 100%;
@@ -100,13 +100,13 @@
   }
 
   .main-about {
-    margin: 10% 5% 0 5%;
+    margin: 10% 7.5% 0 7.5%;
   }
 
   /* RESEARCH */
 
   .research {
-    width: 90%;
+    width: 85%;
     margin: auto;
     margin-top: 10rem;
   }
@@ -137,18 +137,18 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
     margin-top: 0rem;
     margin-bottom: 0rem;
   }
 
   .hr-illustrations {
     display: inline-block;
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
     border: 0;
     height: 0.3rem;
     background-color: #dcd6ce;
