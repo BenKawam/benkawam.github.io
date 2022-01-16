@@ -10,7 +10,7 @@
     text-align: center;
   }
 
-  /* Coloured banner */
+  /* Coloured banner Ben Kawam */
 
   #ben-kawam-home a {
     color: #847e69;
@@ -21,6 +21,7 @@
     font-weight: lighter;
   }
 
+  /* Banner ul */
   nav ul {
     clear: left;
     list-style: none;
@@ -31,7 +32,9 @@
     text-align: center;
   }
 
+  /* Banner li */
   nav li {
+    margin: 0rem 0rem 0rem 3rem;
     display: block;
     float: left;
     list-style: none;
@@ -39,32 +42,23 @@
     left: 45%;
   }
 
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 80%;
-    height: 40%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 14rem;
-    flex-flow: inherit;
-  }
-
-  .single-img {
-    margin: 0rem 0rem 0rem 0rem;
-  }
-
+  /* Banner li anchors */
   nav li a {
     font-size: 2.5rem;
   }
 
+  /* Conianer images and text */
   .container {
-    margin-top: 6rem;
-    margin-bottom: 10rem;
+    width: 80%;
+    height: 40%;
+    margin: 10% 10rem 10% 6rem;
+    align-items: center;
     flex-direction: column;
     align-items: center;
+  }
+
+  .single-img {
+    margin: 0rem 0rem 0rem 0rem;
   }
 
   .text-below-images {
@@ -102,16 +96,17 @@
     font-weight: lighter;
   }
 
-  .main-about {
-    margin: 50rem 10% 0 10%;
+  #rounded-ben {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    transform: translateX(-20%);
   }
 
-  #rounded-ben {
-    width: 415px;
-    position: absolute;
-    left: 50%;
-    top: 60%;
-    transform: translate(-50%, -50%);
+  .main-about {
+    margin: 10% 10% 0 10%;
   }
 
   /* RESEARCH */
