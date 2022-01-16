@@ -17,8 +17,8 @@
     display: inline-block;
     font-size: 6rem;
     transform: translateY(0%);
-    font-family: "Source Sans Pro Light";
-    font-weight: lighter;
+    font-family: "Source Sans Pro";
+    font-weight: 200;
   }
 
   /* Banner ul */
@@ -88,7 +88,8 @@
     font-size: 6rem;
     color: #000000;
     transform: translateY(0%);
-    font-family: "Source Sans Pro Light";
+    font-family: "Source Sans Pro";
+    font-weight: 200;
   }
 
   #rounded-ben {
