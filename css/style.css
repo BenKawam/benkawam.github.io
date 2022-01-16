@@ -63,10 +63,10 @@ Also we won't need media queries for screen size */
 
 @font-face {
   font-family: "Adobe Garamond Pro";
-  src: url("fonts/AGaramondPro-Regular.eot");
-  src: url("fonts/AGaramondPro-Regular.eot?#iefix") format("embedded-opentype"),
-    url("fonts/AGaramondPro-Regular.woff2") format("woff2"),
-    url("fonts/AGaramondPro-Regular.woff") format("woff");
+  src: url("AGaramondPro-Regular.eot");
+  src: url("AGaramondPro-Regular.eot?#iefix") format("embedded-opentype"),
+    url("AGaramondPro-Regular.woff2") format("woff2"),
+    url("AGaramondPro-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
