@@ -45,6 +45,8 @@
   font-display: swap;
 }
 
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
 * {
   margin: 0rem 0rem 0rem 0rem;
   box-sizing: border-box;
