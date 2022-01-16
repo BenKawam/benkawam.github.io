@@ -21,7 +21,7 @@ Also we won't need media queries for screen size */
 
 @font-face {
   font-family: "Source Sans Pro";
-  font-weight: 400;
+  font-weight: 600;
   src: url("source-sans-pro-v18-latin-regular.eot"); /* IE9 Compat Modes */
   src: local(""),
     url("source-sans-pro-v18-latin-regular.eot?#iefix")
