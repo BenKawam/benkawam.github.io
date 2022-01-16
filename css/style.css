@@ -4,8 +4,8 @@ Also we won't need media queries for screen size */
 
 /* source-sans-pro-regular - latin */
 @font-face {
-  font-family: "Source Sans Pro Light";
-  font-weight: 400;
+  font-family: "Source Sans Pro";
+  font-weight: 200;
   src: url("../fonts/source-sans-pro-v18-latin-regular.eot"); /* IE9 Compat Modes */
   src: local(""),
     url("../fonts/source-sans-pro-v18-latin-regular.eot?#iefix")
@@ -23,7 +23,7 @@ Also we won't need media queries for screen size */
 
 @font-face {
   font-family: "Source Sans Pro";
-  font-weight: 600;
+  font-weight: 400;
   src: url("../fonts/source-sans-pro-v18-latin-regular.eot"); /* IE9 Compat Modes */
   src: local(""),
     url("../fonts/source-sans-pro-v18-latin-regular.eot?#iefix")
