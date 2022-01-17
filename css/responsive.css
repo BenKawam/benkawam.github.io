@@ -1,4 +1,4 @@
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   /* Coloured banner */
   nav {
     display: block;
@@ -6,7 +6,7 @@
     padding: 1.6rem 0 0 0rem;
     background: #fbfbf9;
     color: rgb(35, 35, 35);
-    height: 17rem;
+    height: 40vw;
     text-align: center;
   }
 
@@ -16,6 +16,7 @@
     color: #847e69;
     display: inline-block;
     transform: translateY(0%);
+    font-size: 15vw;
   }
 
   /* Banner ul */
@@ -27,7 +28,7 @@
 
   /* Banner li */
   nav li {
-    margin: 0rem 1rem 0rem 1rem;
+    margin: 0rem 3.1vw 0rem 3.1vw;
     list-style: none;
     position: relative;
     left: 50%;
@@ -35,7 +36,7 @@
 
   /* Banner li anchors */
   nav li a {
-    font-size: 2.2rem;
+    font-size: 5.5vw;
   }
 
   /* Conianer images and text */
@@ -82,7 +83,7 @@
   .ben-kawam-banner a {
     text-align: center;
     padding: 0rem 0 0rem 0rem;
-    font-size: 6rem;
+    font-size: 15vw;
     color: #000000;
     transform: translateY(0%);
   }
@@ -122,7 +123,7 @@
     margin-bottom: 5rem;
   }
 
-  /* RESEARCH */
+  /* ILLUSTRATIONS */
 
   .illustrations-tot {
     margin-top: 10rem;
@@ -155,8 +156,12 @@
 
   .text-under-illustrations {
     text-align: center;
-    transform: translateY(-3rem);
+    transform: translateY(-3vw);
     margin-bottom: 4rem;
+  }
+
+  .text-under-illustrations a {
+    font-size: 6vw;
   }
 
   .text-bottom-illustrations {

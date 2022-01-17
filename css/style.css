@@ -89,13 +89,13 @@ nav {
   padding: 1.6rem 0 0 0rem;
   background: #fbfbf9;
   color: rgb(35, 35, 35);
-  height: 14rem;
+  height: 10vw;
 }
 
 #ben-kawam-home a {
   color: #847e69;
   display: inline-block;
-  font-size: 6rem;
+  font-size: 4vw;
   transform: translateY(50%);
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
@@ -105,15 +105,16 @@ nav {
 nav ul {
   float: right;
   list-style: none;
+  transform: translateY(-10%);
 }
 
 nav li {
   float: left;
-  margin: 0rem 0rem 0rem 4rem;
+  margin: 0rem 0rem 0rem 2.8vw;
 }
 
 nav a {
-  font-size: 2.5rem;
+  font-size: 2.1vw;
 }
 
 .tab-target {
@@ -141,7 +142,7 @@ nav a {
   height: 40%;
   margin-left: 17.5%;
   margin-right: 17.5%;
-  margin-top: 7%;
+  margin-top: 5vmax;
   flex-flow: inherit;
 }
 
@@ -181,7 +182,7 @@ footer {
 
 .ben-kawam-banner a {
   display: inline-block;
-  font-size: 6rem;
+  font-size: 4vw;
   transform: translateY(50%);
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
