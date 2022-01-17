@@ -391,3 +391,29 @@ footer {
   color: #4c0f35;
   font-size: 2.2rem;
 }
+
+#bottom-illustrations {
+  position: absolute;
+  display: block;
+  width: 100%;
+  background: #fbfbfb;
+  border: 0px;
+  height: 20rem;
+  margin-bottom: 0px;
+}
+
+.text-bottom-illustrations {
+  display: inline-block;
+  font-size: 1.8rem;
+  font-style: italic;
+  position: absolute;
+  width: 70%;
+  left: 15%;
+  margin-top: 3rem;
+}
+
+strong {
+  font-weight: 600;
+  font-style: italic;
+  color: #4c0f35;
+}

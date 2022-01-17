@@ -93,7 +93,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 5rem;
-    transform: translateX(-20%);
+    transform: translateX(-16%);
   }
 
   .main-about {
@@ -157,6 +157,11 @@
     text-align: center;
     transform: translateY(-3rem);
     margin-bottom: 4rem;
+  }
+
+  .text-bottom-illustrations {
+    left: 7.5%;
+    width: 85%;
   }
 
   a:hover {
