@@ -45,8 +45,6 @@
   font-display: swap;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
-
 * {
   margin: 0rem 0rem 0rem 0rem;
   box-sizing: border-box;
@@ -99,8 +97,8 @@ nav {
   display: inline-block;
   font-size: 6rem;
   transform: translateY(50%);
-  font-family: "Source Sans Pro Light", sans-serif;
-  font-weight: lighter;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
   font-style: normal;
 }
 
@@ -185,8 +183,8 @@ footer {
   display: inline-block;
   font-size: 6rem;
   transform: translateY(50%);
-  font-family: "Source Sans Pro Light", sans-serif;
-  font-weight: lighter;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
   font-style: normal;
 }
 
@@ -212,9 +210,8 @@ footer {
 
 .title-cv {
   font-family: "Source Sans Pro", sans-serif;
-  font-weight: bold;
+  font-weight: 600;
   font-style: normal;
-  font-weight: Bold;
   font-size: 2rem;
   margin-bottom: 0.5rem;
 }
@@ -228,9 +225,8 @@ footer {
 .dates-cv {
   display: inline-block;
   font-family: "Source Sans Pro", sans-serif;
-  font-weight: bold;
+  font-weight: 600;
   font-style: normal;
-  font-weight: Bold;
   font-size: 2rem;
   color: #6f2741;
 }
@@ -379,9 +375,8 @@ footer {
 .text-PNG-illustrations {
   display: inline-block;
   font-family: "Source Sans Pro", sans-serif;
-  font-weight: bold;
+  font-weight: 600;
   font-style: normal;
-  font-weight: Bold;
   margin: 10% 10%;
   color: #7d6b4f;
   font-size: 2.2rem;
@@ -390,9 +385,8 @@ footer {
 .text-PDF-illustrations {
   display: inline-block;
   font-family: "Source Sans Pro", sans-serif;
-  font-weight: bold;
+  font-weight: 600;
   font-style: normal;
-  font-weight: Bold;
   margin: 10% 10%;
   color: #4c0f35;
   font-size: 2.2rem;
