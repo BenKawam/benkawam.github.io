@@ -195,6 +195,12 @@ footer {
   font-size: 2.2rem;
 }
 
+.main-about a {
+  font-size: 2.2rem;
+  font-style: italic;
+  color: #4c0f35;
+}
+
 .main-about i {
   font-size: 2.2rem;
 }
@@ -290,13 +296,13 @@ footer {
 }
 
 /* "Ben Kawam" in publication list (bold) */
-.publications-name {
+.research-bold {
   font-weight: bold;
   font-size: 2.2rem;
 }
 
 /* "journal names" in publication list (bold) */
-.publications-journal {
+.research-italics {
   font-style: italic;
   font-size: 2.2rem;
 }
@@ -315,6 +321,14 @@ footer {
 .research p {
   margin-bottom: 3rem;
   font-size: 2.2rem;
+}
+
+.research-links {
+  color: #4c0f35;
+}
+
+#sticklelab {
+  font-style: italic;
 }
 
 /* Double images - not displayed now */
@@ -416,5 +430,4 @@ footer {
 strong {
   font-weight: 600;
   font-style: italic;
-  color: #4c0f35;
 }
