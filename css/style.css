@@ -76,6 +76,7 @@ a:hover span {
   clear: both;
 }
 
+/* Banner takes the whole page */
 .banner {
   width: 100%;
   background: #fbfbf9;
@@ -92,6 +93,7 @@ nav {
   height: 10vw;
 }
 
+/* Ben Kawam ("home" link) on main page */
 #ben-kawam-home a {
   color: #847e69;
   display: inline-block;
@@ -102,37 +104,30 @@ nav {
   font-style: normal;
 }
 
+/* Unordered list = the navigation float */
 nav ul {
   float: right;
   list-style: none;
   transform: translateY(-10%);
 }
 
+/* Elements of the ul */
 nav li {
   float: left;
   margin: 0rem 0rem 0rem 2.8vw;
 }
 
+/* Size of elements of ul */
 nav a {
   font-size: 2.1vw;
 }
 
+/* Colour of targeted link */
 .tab-target {
   color: #847e69;
 }
 
-#research {
-  margin-right: 35%;
-}
-
-#about {
-  margin-right: 27%;
-}
-
-#illustrations {
-  margin-right: 15%;
-}
-
+/* Container for the flex images on the home page */
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -146,10 +141,12 @@ nav a {
   flex-flow: inherit;
 }
 
+/* Details for the single images */
 .single-img {
   margin: 0rem 4rem 0rem 0rem;
 }
 
+/* Text under these images */
 .text-below-images {
   display: block;
   font-size: 2.5rem;
@@ -158,16 +155,12 @@ nav a {
   width: 100%;
 }
 
+/* Text under the illustration image */
 #text-illustration {
   text-align: center;
 }
 
-#vl-home {
-  border: 0;
-  width: 0.1rem;
-  background-color: #dcd6ce;
-}
-
+/* Footer home page */
 footer {
   clear: both;
   bottom: 0px;
@@ -180,6 +173,7 @@ footer {
 
 /* ABOUT */
 
+/* Ben Kawam on non-home pages */
 .ben-kawam-banner a {
   display: inline-block;
   font-size: 4vw;
@@ -295,13 +289,11 @@ footer {
   font-size: 2.2rem;
 }
 
-/* "Ben Kawam" in publication list (bold) */
 .research-bold {
   font-weight: bold;
   font-size: 2.2rem;
 }
 
-/* "journal names" in publication list (bold) */
 .research-italics {
   font-style: italic;
   font-size: 2.2rem;
