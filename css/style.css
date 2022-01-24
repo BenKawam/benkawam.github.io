@@ -405,7 +405,7 @@ footer {
   width: 100%;
   background: #fbfbfb;
   border: 0px;
-  height: 20rem;
+  height: 25rem;
   margin-bottom: 0px;
 }
 
@@ -417,6 +417,11 @@ footer {
   width: 70%;
   left: 15%;
   margin-top: 3rem;
+}
+
+.text-bottom-illustrations a {
+  font-weight: bold;
+  color: #601d40;
 }
 
 strong {
