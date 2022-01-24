@@ -316,7 +316,7 @@ footer {
 }
 
 .research-links {
-  color: #4c0f35;
+  color: #601d40;
 }
 
 #sticklelab {
@@ -422,4 +422,5 @@ footer {
 strong {
   font-weight: 600;
   font-style: italic;
+  color: #601d40;
 }
