@@ -160,7 +160,19 @@
     margin-bottom: 4rem;
   }
 
-  .text-under-illustrations a {
+  .text-PNG-illustrations {
+    font-size: 6vw;
+  }
+
+  .text-PDF-illustrations {
+    font-size: 6vw;
+  }
+
+  .text-PNG-illustrations-div {
+    font-size: 6vw;
+  }
+
+  .text-PDF-illustrations-div {
     font-size: 6vw;
   }
 
