@@ -189,14 +189,14 @@ footer {
   font-size: 2.2rem;
 }
 
-.main-about a {
+.main-about i {
+  font-size: 2.2rem;
+}
+
+.link-in-text {
   font-size: 2.2rem;
   font-style: italic;
   color: #4c0f35;
-}
-
-.main-about i {
-  font-size: 2.2rem;
 }
 
 .short-cv {
