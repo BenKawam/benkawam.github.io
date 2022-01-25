@@ -421,7 +421,6 @@ footer {
 
 #bottom-illustrations {
   position: absolute;
-  display: block;
   width: 100%;
   background: #fbfbfb;
   border: 0px;
@@ -430,7 +429,7 @@ footer {
 }
 
 .text-bottom-illustrations {
-  display: inline-block;
+  position: absolute;
   font-size: 1.8rem;
   font-style: italic;
   position: absolute;
