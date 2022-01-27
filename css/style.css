@@ -183,32 +183,38 @@ footer {
   font-style: normal;
 }
 
+/* Text in about */
 .main-about {
   float: left;
   margin: -15% 45% 0 17.5%;
   font-size: 2.2rem;
 }
 
+/* Text italic in about */
 .main-about i {
   font-size: 2.2rem;
 }
 
+/* Text links in about */
 .link-in-text {
   font-size: 2.2rem;
   font-style: italic;
   color: #4c0f35;
 }
 
+/* CV text in about */
 .short-cv {
   margin: 6rem 0 3rem 0;
 }
 
+/* CV text italic in about */
 .short-cv li {
   list-style: none;
   font-size: 2rem;
   margin-bottom: 2rem;
 }
 
+/* CV titles in about */
 .title-cv {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 600;
@@ -217,12 +223,14 @@ footer {
   margin-bottom: 0.5rem;
 }
 
+/* CV text in about */
 .short-cv ul {
   padding: 0;
   margin-bottom: 4rem;
   margin-top: 2rem;
 }
 
+/* CV dates in about */
 .dates-cv {
   display: inline-block;
   font-family: "Source Sans Pro", sans-serif;
@@ -232,6 +240,7 @@ footer {
   color: #6f2741;
 }
 
+/* CV horizontal line below */
 #hl-about {
   border: 0;
   height: 0.1rem;
