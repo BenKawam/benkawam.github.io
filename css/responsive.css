@@ -28,7 +28,7 @@
 
   /* Banner li */
   nav li {
-    margin: 0rem 2.1vw 0rem 2.1vw;
+    margin: 0rem 2.8vw 0rem 2.8vw;
     list-style: none;
     position: relative;
     left: 50%;
@@ -185,5 +185,12 @@
     color: #958f77;
     opacity: 0.9;
     transition: 0.1s;
+  }
+}
+
+/* Small screen for messenger */
+@media screen and (max-width: 360px) {
+  nav li a {
+    margin: 0rem 2.1 0rem 2.1vw;
   }
 }
