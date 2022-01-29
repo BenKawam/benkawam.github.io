@@ -185,10 +185,7 @@
     opacity: 0.9;
     transition: 0.1s;
   }
-
 }
-
-
 
 @media screen and (max-width: 700px) {
   /* Coloured banner */
@@ -334,8 +331,6 @@
     margin-bottom: 0rem;
   }
 
- 
-
   .text-under-illustrations {
     text-align: center;
     transform: translateY(-3vw);
@@ -357,16 +352,11 @@
   .text-PDF-illustrations-div {
     font-size: 6vw;
   }
-
 }
 
 /* Small screen for messenger */
 @media screen and (max-width: 360px) {
-  nav li a {
-    margin: 0rem 2.1 0rem 2.1vw;
+  nav li {
+    margin: 0rem 2.1vw 0rem 2.1vw;
   }
-
-
-
-
-
+}
