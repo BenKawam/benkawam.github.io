@@ -337,18 +337,22 @@
     margin-bottom: 4rem;
   }
 
+  /* text PNG downloadable */
   .text-PNG-illustrations {
     font-size: 6vw;
   }
 
+  /* text PDF downloadable */
   .text-PDF-illustrations {
     font-size: 6vw;
   }
 
+  /* text PNG non-downloadable */
   .text-PNG-illustrations-div {
     font-size: 6vw;
   }
 
+  /* text PDF non-downloadable */
   .text-PDF-illustrations-div {
     font-size: 6vw;
   }
