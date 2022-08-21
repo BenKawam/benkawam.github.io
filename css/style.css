@@ -380,7 +380,8 @@ footer {
 /* Single images */
 .research-img-diary {
   width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
+  margin-top: -2rem;
   display: inline-flex;
 }
 
