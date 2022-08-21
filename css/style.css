@@ -275,19 +275,6 @@ footer {
   margin-top: 10rem;
 }
 
-.research h1 {
-  margin: auto;
-  margin-top: -5rem;
-  margin-bottom: 7rem;
-  font-size: 5.8rem;
-  color: #6a2b54;
-  font-family: "Adobe Garamond Pro", "Sans Serif";
-  text-align: center;
-  font-weight: normal;
-  font-style: normal;
-  color: #000000;
-}
-
 /* Titles (red) */
 .research h2 {
   margin-top: 3rem;
@@ -494,4 +481,29 @@ strong {
   font-weight: 600;
   font-style: italic;
   color: #601d40;
+}
+
+.research h1 {
+  margin: auto;
+  margin-top: -5rem;
+  margin-bottom: 0rem;
+  font-size: 5.8rem;
+  color: #6a2b54;
+  font-family: "Adobe Garamond Pro", "Sans Serif";
+  text-align: center;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+}
+
+#diary-update {
+  text-align: center;
+  margin: auto;
+  margin-top: 0rem;
+  margin-bottom: 9rem;
+  font-size: 2rem;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+
+  color: #756e5a;
 }
