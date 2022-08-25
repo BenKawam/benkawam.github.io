@@ -344,6 +344,13 @@ footer {
   margin-bottom: 5rem;
 }
 
+.vspace2 {
+  border: 0;
+  height: 1rem;
+  background-color: #ffffff;
+  margin: auto;
+}
+
 /* Projects (text) */
 .research p {
   margin-bottom: 3rem;
