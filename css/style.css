@@ -171,6 +171,13 @@ footer {
   background-color: #ffffff;
 }
 
+header {
+  clear: both;
+  top: 0px;
+  padding-top: 1%;
+  position: absolute;
+}
+
 /* ABOUT */
 
 /* Ben Kawam on non-home pages */
@@ -501,7 +508,7 @@ strong {
 
 .research h1 {
   margin: auto;
-  margin-top: -5rem;
+  margin-top: -6rem;
   margin-bottom: 0rem;
   font-size: 5.8rem;
   color: #6a2b54;
