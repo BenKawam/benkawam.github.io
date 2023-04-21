@@ -87,11 +87,14 @@
 
   #rounded-ben {
     width: 45%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5rem;
-    transform: translateX(-60%);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: -6rem;
+    margin-bottom: 13rem;
+  }
+
+  .email-img a {
+    font-size: 2.6rem;
   }
 
   .main-about {
@@ -278,12 +281,11 @@
   }
 
   #rounded-ben {
-    width: 75%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5rem;
-    transform: translateX(-16%);
+    width: 65%;
+    margin-top: -8rem;
+    margin-bottom: 10rem;
+    margin-left: 17%;
+    margin-right: 7.5%;
   }
 
   .main-about {

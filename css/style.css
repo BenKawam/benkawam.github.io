@@ -269,9 +269,31 @@ header {
 }
 
 #rounded-ben {
-  float: right;
+  display: inline-block;
+  margin-left: 63%;
   margin-right: 17.5%;
   transform: translateY(28%);
+  width: 20%;
+}
+
+.email-img {
+  text-align: center;
+  margin-top: 1.2rem;
+}
+
+.email-img a {
+  margin-bottom: 4rem;
+  font-family: "Adobe Garamond Pro";
+  font-weight: normal;
+  font-style: italic;
+  color: #3a3831;
+  font-size: 2.2rem;
+}
+
+.mail-under-pic {
+  float: right;
+  margin-right: -25%;
+  transform: translateY(47rem);
   width: 20%;
 }
 
