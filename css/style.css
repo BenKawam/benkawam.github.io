@@ -50,6 +50,8 @@
 .hebrew {
   font-family: "Noto Serif Hebrew", serif;
   direction: rtl;
+  unicode-bidi: isolate;
+  display: inline-block;
 }
 
 * {
